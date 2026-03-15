@@ -1,0 +1,502 @@
+[
+  {
+    "id": "samsung-ww90t-white",
+    "category": "washing-machines",
+    "namespaceId": "samsung-ww90t",
+    "name": "Samsung WW90T634DLH/UA White",
+    "sizeAvailable": [
+      "6kg",
+      "7kg",
+      "9kg"
+    ],
+    "size": "6kg",
+    "priceRegular": 18500,
+    "priceDiscount": 16999,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "silver"
+    ],
+    "color": "white",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Inverter Motor",
+        "text": [
+          "Quiet and energy-efficient washing. Provides long-lasting durability and reduces noise during the spin cycle."
+        ]
+      },
+      {
+        "title": "Steam Wash",
+        "text": [
+          "Removes 99.9% of bacteria and allergens. Perfect for baby clothes and sensitive skin."
+        ]
+      }
+    ],
+    "country": "Poland",
+    "dimensions": "85 x 60 x 45 cm",
+    "warranty": "36 months",
+    "power": "A+++",
+    "weight": "60 kg",
+    "noiseLevel": "55 dB",
+    "features": [
+      "Steam Control",
+      "Quick Wash 15'",
+      "Child Lock"
+    ]
+  },
+  {
+    "id": "lg-f4v5vs0w-white",
+    "category": "washing-machines",
+    "namespaceId": "lg-f4v5vs0w",
+    "name": "LG F4V5VS0W Steam White",
+    "sizeAvailable": [
+      "6kg",
+      "7kg",
+      "9kg"
+    ],
+    "size": "6kg",
+    "priceRegular": 21000,
+    "priceDiscount": 18999,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "silver"
+    ],
+    "color": "white",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Inverter Motor",
+        "text": [
+          "Quiet and energy-efficient washing. Provides long-lasting durability and reduces noise during the spin cycle."
+        ]
+      },
+      {
+        "title": "Steam Wash",
+        "text": [
+          "Removes 99.9% of bacteria and allergens. Perfect for baby clothes and sensitive skin."
+        ]
+      }
+    ],
+    "country": "China",
+    "dimensions": "85 x 60 x 45 cm",
+    "warranty": "12 months",
+    "power": "A+++",
+    "weight": "60 kg",
+    "noiseLevel": "55 dB",
+    "features": [
+      "Steam Control",
+      "Quick Wash 15'",
+      "Child Lock"
+    ]
+  },
+  {
+    "id": "bosch-wan28262by-white",
+    "category": "washing-machines",
+    "namespaceId": "bosch-wan28262by",
+    "name": "Bosch WAN28262BY Serie 4 White",
+    "sizeAvailable": [
+      "6kg",
+      "7kg",
+      "9kg"
+    ],
+    "size": "6kg",
+    "priceRegular": 19500,
+    "priceDiscount": 17800,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "silver"
+    ],
+    "color": "white",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Inverter Motor",
+        "text": [
+          "Quiet and energy-efficient washing. Provides long-lasting durability and reduces noise during the spin cycle."
+        ]
+      },
+      {
+        "title": "Steam Wash",
+        "text": [
+          "Removes 99.9% of bacteria and allergens. Perfect for baby clothes and sensitive skin."
+        ]
+      }
+    ],
+    "country": "Turkey",
+    "dimensions": "85 x 60 x 45 cm",
+    "warranty": "24 months",
+    "power": "A+++",
+    "weight": "60 kg",
+    "noiseLevel": "55 dB",
+    "features": [
+      "Steam Control",
+      "Quick Wash 15'",
+      "Child Lock"
+    ]
+  },
+  {
+    "id": "beko-wue7611-white",
+    "category": "washing-machines",
+    "namespaceId": "beko-wue7611",
+    "name": "Beko WUE7611XAW White",
+    "sizeAvailable": [
+      "6kg",
+      "7kg",
+      "9kg"
+    ],
+    "size": "6kg",
+    "priceRegular": 12500,
+    "priceDiscount": 10999,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "silver"
+    ],
+    "color": "white",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Inverter Motor",
+        "text": [
+          "Quiet and energy-efficient washing. Provides long-lasting durability and reduces noise during the spin cycle."
+        ]
+      },
+      {
+        "title": "Steam Wash",
+        "text": [
+          "Removes 99.9% of bacteria and allergens. Perfect for baby clothes and sensitive skin."
+        ]
+      }
+    ],
+    "country": "Romania",
+    "dimensions": "85 x 60 x 45 cm",
+    "warranty": "36 months",
+    "power": "A+++",
+    "weight": "60 kg",
+    "noiseLevel": "55 dB",
+    "features": [
+      "Steam Control",
+      "Quick Wash 15'",
+      "Child Lock"
+    ]
+  },
+  {
+    "id": "whirlpool-ffb8258-white",
+    "category": "washing-machines",
+    "namespaceId": "whirlpool-ffb8258",
+    "name": "Whirlpool FFB 8258 WV EE White",
+    "sizeAvailable": [
+      "6kg",
+      "7kg",
+      "9kg"
+    ],
+    "size": "6kg",
+    "priceRegular": 16000,
+    "priceDiscount": 14500,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "silver"
+    ],
+    "color": "white",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Inverter Motor",
+        "text": [
+          "Quiet and energy-efficient washing. Provides long-lasting durability and reduces noise during the spin cycle."
+        ]
+      },
+      {
+        "title": "Steam Wash",
+        "text": [
+          "Removes 99.9% of bacteria and allergens. Perfect for baby clothes and sensitive skin."
+        ]
+      }
+    ],
+    "country": "Slovakia",
+    "dimensions": "85 x 60 x 45 cm",
+    "warranty": "12 months",
+    "power": "A+++",
+    "weight": "60 kg",
+    "noiseLevel": "55 dB",
+    "features": [
+      "Steam Control",
+      "Quick Wash 15'",
+      "Child Lock"
+    ]
+  },
+  {
+    "id": "gorenje-wnei74sbs-white",
+    "category": "washing-machines",
+    "namespaceId": "gorenje-wnei74sbs",
+    "name": "Gorenje WNEI74SBS White",
+    "sizeAvailable": [
+      "6kg",
+      "7kg",
+      "9kg"
+    ],
+    "size": "6kg",
+    "priceRegular": 15500,
+    "priceDiscount": 13999,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "silver"
+    ],
+    "color": "white",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Inverter Motor",
+        "text": [
+          "Quiet and energy-efficient washing. Provides long-lasting durability and reduces noise during the spin cycle."
+        ]
+      },
+      {
+        "title": "Steam Wash",
+        "text": [
+          "Removes 99.9% of bacteria and allergens. Perfect for baby clothes and sensitive skin."
+        ]
+      }
+    ],
+    "country": "Serbia",
+    "dimensions": "85 x 60 x 45 cm",
+    "warranty": "24 months",
+    "power": "A+++",
+    "weight": "60 kg",
+    "noiseLevel": "55 dB",
+    "features": [
+      "Steam Control",
+      "Quick Wash 15'",
+      "Child Lock"
+    ]
+  },
+  {
+    "id": "electrolux-ew6s426wu-white",
+    "category": "washing-machines",
+    "namespaceId": "electrolux-ew6s426wu",
+    "name": "Electrolux EW6S426WU PerfectCare White",
+    "sizeAvailable": [
+      "6kg",
+      "7kg",
+      "9kg"
+    ],
+    "size": "6kg",
+    "priceRegular": 14800,
+    "priceDiscount": 13500,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "silver"
+    ],
+    "color": "white",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Inverter Motor",
+        "text": [
+          "Quiet and energy-efficient washing. Provides long-lasting durability and reduces noise during the spin cycle."
+        ]
+      },
+      {
+        "title": "Steam Wash",
+        "text": [
+          "Removes 99.9% of bacteria and allergens. Perfect for baby clothes and sensitive skin."
+        ]
+      }
+    ],
+    "country": "Ukraine",
+    "dimensions": "85 x 60 x 45 cm",
+    "warranty": "12 months",
+    "power": "A+++",
+    "weight": "60 kg",
+    "noiseLevel": "55 dB",
+    "features": [
+      "Steam Control",
+      "Quick Wash 15'",
+      "Child Lock"
+    ]
+  },
+  {
+    "id": "haier-hw80-b14979-white",
+    "category": "washing-machines",
+    "namespaceId": "haier-hw80",
+    "name": "Haier HW80-B14979 I-Pro Series 7 White",
+    "sizeAvailable": [
+      "6kg",
+      "7kg",
+      "9kg"
+    ],
+    "size": "6kg",
+    "priceRegular": 22500,
+    "priceDiscount": 19999,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "silver"
+    ],
+    "color": "white",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Inverter Motor",
+        "text": [
+          "Quiet and energy-efficient washing. Provides long-lasting durability and reduces noise during the spin cycle."
+        ]
+      },
+      {
+        "title": "Steam Wash",
+        "text": [
+          "Removes 99.9% of bacteria and allergens. Perfect for baby clothes and sensitive skin."
+        ]
+      }
+    ],
+    "country": "China",
+    "dimensions": "85 x 60 x 45 cm",
+    "warranty": "36 months",
+    "power": "A+++",
+    "weight": "60 kg",
+    "noiseLevel": "55 dB",
+    "features": [
+      "Steam Control",
+      "Quick Wash 15'",
+      "Child Lock"
+    ]
+  },
+  {
+    "id": "candy-smart-cs4-white",
+    "category": "washing-machines",
+    "namespaceId": "candy-smart",
+    "name": "Candy Smart CS4 1061DE/1-S White",
+    "sizeAvailable": [
+      "6kg",
+      "7kg",
+      "9kg"
+    ],
+    "size": "6kg",
+    "priceRegular": 11000,
+    "priceDiscount": 9500,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "silver"
+    ],
+    "color": "white",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Inverter Motor",
+        "text": [
+          "Quiet and energy-efficient washing. Provides long-lasting durability and reduces noise during the spin cycle."
+        ]
+      },
+      {
+        "title": "Steam Wash",
+        "text": [
+          "Removes 99.9% of bacteria and allergens. Perfect for baby clothes and sensitive skin."
+        ]
+      }
+    ],
+    "country": "China",
+    "dimensions": "85 x 60 x 45 cm",
+    "warranty": "12 months",
+    "power": "A+",
+    "weight": "60 kg",
+    "noiseLevel": "55 dB",
+    "features": [
+      "Steam Control",
+      "Quick Wash 15'",
+      "Child Lock"
+    ]
+  },
+  {
+    "id": "samsung-ww11bb944dgh-black",
+    "category": "washing-machines",
+    "namespaceId": "samsung-ww11bb944dgh",
+    "name": "Samsung WW11BB944DGH/UA Bespoke Black",
+    "sizeAvailable": [
+      "6kg",
+      "7kg",
+      "9kg"
+    ],
+    "size": "6kg",
+    "priceRegular": 35000,
+    "priceDiscount": 31999,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "silver"
+    ],
+    "color": "black",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Inverter Motor",
+        "text": [
+          "Quiet and energy-efficient washing. Provides long-lasting durability and reduces noise during the spin cycle."
+        ]
+      },
+      {
+        "title": "Steam Wash",
+        "text": [
+          "Removes 99.9% of bacteria and allergens. Perfect for baby clothes and sensitive skin."
+        ]
+      }
+    ],
+    "country": "Poland",
+    "dimensions": "85 x 60 x 45 cm",
+    "warranty": "36 months",
+    "power": "A+++",
+    "weight": "60 kg",
+    "noiseLevel": "55 dB",
+    "features": [
+      "Steam Control",
+      "Quick Wash 15'",
+      "Child Lock"
+    ]
+  }
+]

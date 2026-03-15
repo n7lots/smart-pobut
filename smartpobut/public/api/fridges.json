@@ -1,0 +1,512 @@
+[
+  {
+    "id": "samsung-rb38t-silver",
+    "category": "fridges",
+    "namespaceId": "samsung-rb38t",
+    "name": "Samsung RB38T600FSA/UA Silver",
+    "sizeAvailable": [
+      "340L",
+      "385L",
+      "400L"
+    ],
+    "size": "340L",
+    "priceRegular": 22000,
+    "priceDiscount": 19500,
+    "colorsAvailable": [
+      "silver",
+      "white",
+      "black",
+      "inox"
+    ],
+    "color": "silver",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Smart Cooling",
+        "text": [
+          "Maintains optimal temperature everywhere. Reduces energy consumption and keeps food fresh longer."
+        ]
+      },
+      {
+        "title": "No Frost",
+        "text": [
+          "No need to defrost manually ever again. Prevents ice buildup inside the fridge."
+        ]
+      }
+    ],
+    "country": "Poland",
+    "dimensions": "200 x 60 x 65 cm",
+    "warranty": "36 months",
+    "power": "A++",
+    "weight": "70 kg",
+    "noiseLevel": "37 dB",
+    "features": [
+      "No Frost",
+      "LED Display",
+      "Fast Freeze"
+    ]
+  },
+  {
+    "id": "bosch-kgn39vi306-inox",
+    "category": "fridges",
+    "namespaceId": "bosch-kgn39vi306",
+    "name": "Bosch KGN39VI306 Inox",
+    "sizeAvailable": [
+      "340L",
+      "385L",
+      "400L"
+    ],
+    "size": "340L",
+    "priceRegular": 26500,
+    "priceDiscount": 24000,
+    "colorsAvailable": [
+      "silver",
+      "white",
+      "black",
+      "inox"
+    ],
+    "color": "inox",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Smart Cooling",
+        "text": [
+          "Maintains optimal temperature everywhere. Reduces energy consumption and keeps food fresh longer."
+        ]
+      },
+      {
+        "title": "No Frost",
+        "text": [
+          "No need to defrost manually ever again. Prevents ice buildup inside the fridge."
+        ]
+      }
+    ],
+    "country": "Turkey",
+    "dimensions": "200 x 60 x 65 cm",
+    "warranty": "24 months",
+    "power": "A++",
+    "weight": "70 kg",
+    "noiseLevel": "37 dB",
+    "features": [
+      "No Frost",
+      "LED Display",
+      "Fast Freeze"
+    ]
+  },
+  {
+    "id": "lg-gw-b509psap-silver",
+    "category": "fridges",
+    "namespaceId": "lg-gw",
+    "name": "LG GW-B509PSAP Silver",
+    "sizeAvailable": [
+      "340L",
+      "385L",
+      "400L"
+    ],
+    "size": "340L",
+    "priceRegular": 23000,
+    "priceDiscount": 21000,
+    "colorsAvailable": [
+      "silver",
+      "white",
+      "black",
+      "inox"
+    ],
+    "color": "silver",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Smart Cooling",
+        "text": [
+          "Maintains optimal temperature everywhere. Reduces energy consumption and keeps food fresh longer."
+        ]
+      },
+      {
+        "title": "No Frost",
+        "text": [
+          "No need to defrost manually ever again. Prevents ice buildup inside the fridge."
+        ]
+      }
+    ],
+    "country": "Poland",
+    "dimensions": "200 x 60 x 65 cm",
+    "warranty": "12 months",
+    "power": "A+++",
+    "weight": "70 kg",
+    "noiseLevel": "37 dB",
+    "features": [
+      "No Frost",
+      "LED Display",
+      "Fast Freeze"
+    ]
+  },
+  {
+    "id": "beko-rcna406-grey",
+    "category": "fridges",
+    "namespaceId": "beko-rcna406",
+    "name": "Beko RCNA406E40ZXBN Grey",
+    "sizeAvailable": [
+      "340L",
+      "385L",
+      "400L"
+    ],
+    "size": "340L",
+    "priceRegular": 16500,
+    "priceDiscount": 15000,
+    "colorsAvailable": [
+      "silver",
+      "white",
+      "black",
+      "inox"
+    ],
+    "color": "grey",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Smart Cooling",
+        "text": [
+          "Maintains optimal temperature everywhere. Reduces energy consumption and keeps food fresh longer."
+        ]
+      },
+      {
+        "title": "No Frost",
+        "text": [
+          "No need to defrost manually ever again. Prevents ice buildup inside the fridge."
+        ]
+      }
+    ],
+    "country": "Romania",
+    "dimensions": "200 x 60 x 65 cm",
+    "warranty": "36 months",
+    "power": "A++",
+    "weight": "70 kg",
+    "noiseLevel": "37 dB",
+    "features": [
+      "No Frost",
+      "LED Display",
+      "Fast Freeze"
+    ]
+  },
+  {
+    "id": "gorenje-nrk6192-inox",
+    "category": "fridges",
+    "namespaceId": "gorenje-nrk6192",
+    "name": "Gorenje NRK6192AXL4 Inox",
+    "sizeAvailable": [
+      "340L",
+      "385L",
+      "400L"
+    ],
+    "size": "340L",
+    "priceRegular": 19000,
+    "priceDiscount": 17500,
+    "colorsAvailable": [
+      "silver",
+      "white",
+      "black",
+      "inox"
+    ],
+    "color": "inox",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Smart Cooling",
+        "text": [
+          "Maintains optimal temperature everywhere. Reduces energy consumption and keeps food fresh longer."
+        ]
+      },
+      {
+        "title": "No Frost",
+        "text": [
+          "No need to defrost manually ever again. Prevents ice buildup inside the fridge."
+        ]
+      }
+    ],
+    "country": "Serbia",
+    "dimensions": "200 x 60 x 65 cm",
+    "warranty": "24 months",
+    "power": "A++",
+    "weight": "70 kg",
+    "noiseLevel": "37 dB",
+    "features": [
+      "No Frost",
+      "LED Display",
+      "Fast Freeze"
+    ]
+  },
+  {
+    "id": "whirlpool-w7-811-black",
+    "category": "fridges",
+    "namespaceId": "whirlpool-w7",
+    "name": "Whirlpool W7 811 I K Black",
+    "sizeAvailable": [
+      "340L",
+      "385L",
+      "400L"
+    ],
+    "size": "340L",
+    "priceRegular": 20500,
+    "priceDiscount": 18900,
+    "colorsAvailable": [
+      "silver",
+      "white",
+      "black",
+      "inox"
+    ],
+    "color": "black",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Smart Cooling",
+        "text": [
+          "Maintains optimal temperature everywhere. Reduces energy consumption and keeps food fresh longer."
+        ]
+      },
+      {
+        "title": "No Frost",
+        "text": [
+          "No need to defrost manually ever again. Prevents ice buildup inside the fridge."
+        ]
+      }
+    ],
+    "country": "Poland",
+    "dimensions": "200 x 60 x 65 cm",
+    "warranty": "12 months",
+    "power": "A+",
+    "weight": "70 kg",
+    "noiseLevel": "37 dB",
+    "features": [
+      "No Frost",
+      "LED Display",
+      "Fast Freeze"
+    ]
+  },
+  {
+    "id": "indesit-ita-4181-white",
+    "category": "fridges",
+    "namespaceId": "indesit-ita",
+    "name": "Indesit ITA 4181 W White",
+    "sizeAvailable": [
+      "340L",
+      "385L",
+      "400L"
+    ],
+    "size": "340L",
+    "priceRegular": 12800,
+    "priceDiscount": 11500,
+    "colorsAvailable": [
+      "silver",
+      "white",
+      "black",
+      "inox"
+    ],
+    "color": "white",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Smart Cooling",
+        "text": [
+          "Maintains optimal temperature everywhere. Reduces energy consumption and keeps food fresh longer."
+        ]
+      },
+      {
+        "title": "No Frost",
+        "text": [
+          "No need to defrost manually ever again. Prevents ice buildup inside the fridge."
+        ]
+      }
+    ],
+    "country": "Turkey",
+    "dimensions": "200 x 60 x 65 cm",
+    "warranty": "12 months",
+    "power": "A+",
+    "weight": "70 kg",
+    "noiseLevel": "37 dB",
+    "features": [
+      "No Frost",
+      "LED Display",
+      "Fast Freeze"
+    ]
+  },
+  {
+    "id": "liebherr-cnel-4313-silver",
+    "category": "fridges",
+    "namespaceId": "liebherr-cnel",
+    "name": "Liebherr CNel 4313 Silver",
+    "sizeAvailable": [
+      "340L",
+      "385L",
+      "400L"
+    ],
+    "size": "340L",
+    "priceRegular": 31000,
+    "priceDiscount": 28000,
+    "colorsAvailable": [
+      "silver",
+      "white",
+      "black",
+      "inox"
+    ],
+    "color": "silver",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Smart Cooling",
+        "text": [
+          "Maintains optimal temperature everywhere. Reduces energy consumption and keeps food fresh longer."
+        ]
+      },
+      {
+        "title": "No Frost",
+        "text": [
+          "No need to defrost manually ever again. Prevents ice buildup inside the fridge."
+        ]
+      }
+    ],
+    "country": "Germany",
+    "dimensions": "200 x 60 x 65 cm",
+    "warranty": "36 months",
+    "power": "A++",
+    "weight": "70 kg",
+    "noiseLevel": "37 dB",
+    "features": [
+      "No Frost",
+      "LED Display",
+      "Fast Freeze"
+    ]
+  },
+  {
+    "id": "samsung-rs68a8840b1-black",
+    "category": "fridges",
+    "namespaceId": "samsung-rs68a8840b1",
+    "name": "Samsung RS68A8840B1/UA Black (Side-by-Side)",
+    "sizeAvailable": [
+      "340L",
+      "385L",
+      "400L"
+    ],
+    "size": "340L",
+    "priceRegular": 50000,
+    "priceDiscount": 45000,
+    "colorsAvailable": [
+      "silver",
+      "white",
+      "black",
+      "inox"
+    ],
+    "color": "black",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Smart Cooling",
+        "text": [
+          "Maintains optimal temperature everywhere. Reduces energy consumption and keeps food fresh longer."
+        ]
+      },
+      {
+        "title": "No Frost",
+        "text": [
+          "No need to defrost manually ever again. Prevents ice buildup inside the fridge."
+        ]
+      }
+    ],
+    "country": "China",
+    "dimensions": "200 x 60 x 65 cm",
+    "warranty": "36 months",
+    "power": "A+",
+    "weight": "70 kg",
+    "noiseLevel": "37 dB",
+    "features": [
+      "No Frost",
+      "LED Display",
+      "Fast Freeze"
+    ]
+  },
+  {
+    "id": "lg-doorcooling-white",
+    "category": "fridges",
+    "namespaceId": "lg-doorcooling",
+    "name": "LG DoorCooling+ GA-B509CQWL White",
+    "sizeAvailable": [
+      "340L",
+      "385L",
+      "400L"
+    ],
+    "size": "340L",
+    "priceRegular": 22000,
+    "priceDiscount": 19999,
+    "colorsAvailable": [
+      "silver",
+      "white",
+      "black",
+      "inox"
+    ],
+    "color": "white",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Smart Cooling",
+        "text": [
+          "Maintains optimal temperature everywhere. Reduces energy consumption and keeps food fresh longer."
+        ]
+      },
+      {
+        "title": "No Frost",
+        "text": [
+          "No need to defrost manually ever again. Prevents ice buildup inside the fridge."
+        ]
+      }
+    ],
+    "country": "Poland",
+    "dimensions": "200 x 60 x 65 cm",
+    "warranty": "12 months",
+    "power": "A++",
+    "weight": "70 kg",
+    "noiseLevel": "37 dB",
+    "features": [
+      "No Frost",
+      "LED Display",
+      "Fast Freeze"
+    ]
+  }
+]

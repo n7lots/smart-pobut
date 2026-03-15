@@ -1,0 +1,492 @@
+[
+  {
+    "id": "xiaomi-robot-s10-white",
+    "category": "robot-vacuums",
+    "namespaceId": "xiaomi-robot",
+    "name": "Xiaomi Robot Vacuum S10 White",
+    "sizeAvailable": [
+      "Standard",
+      "Plus Base"
+    ],
+    "size": "Standard",
+    "priceRegular": 11000,
+    "priceDiscount": 9999,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "color": "white",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Laser Navigation",
+        "text": [
+          "Scans the room to create optimal cleaning paths. Avoids obstacles and never misses a spot."
+        ]
+      },
+      {
+        "title": "App Control",
+        "text": [
+          "Start, stop, and schedule cleaning from your smartphone, even when you are not at home."
+        ]
+      }
+    ],
+    "country": "China",
+    "dimensions": "35 x 35 x 9.5 cm",
+    "warranty": "12 months",
+    "power": "45W / 4000Pa",
+    "weight": "3.5 kg",
+    "noiseLevel": "60 dB",
+    "features": [
+      "LDS Navigation",
+      "Wet Cleaning",
+      "Auto-return to Base"
+    ]
+  },
+  {
+    "id": "roborock-s8-pro-black",
+    "category": "robot-vacuums",
+    "namespaceId": "roborock-s8",
+    "name": "Roborock S8 Pro Ultra Black",
+    "sizeAvailable": [
+      "Standard",
+      "Plus Base"
+    ],
+    "size": "Standard",
+    "priceRegular": 45000,
+    "priceDiscount": 41999,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "color": "black",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Laser Navigation",
+        "text": [
+          "Scans the room to create optimal cleaning paths. Avoids obstacles and never misses a spot."
+        ]
+      },
+      {
+        "title": "App Control",
+        "text": [
+          "Start, stop, and schedule cleaning from your smartphone, even when you are not at home."
+        ]
+      }
+    ],
+    "country": "China",
+    "dimensions": "35 x 35 x 9.5 cm",
+    "warranty": "24 months",
+    "power": "69W / 6000Pa",
+    "weight": "3.5 kg",
+    "noiseLevel": "60 dB",
+    "features": [
+      "LDS Navigation",
+      "Wet Cleaning",
+      "Auto-return to Base"
+    ]
+  },
+  {
+    "id": "irobot-roomba-j7-grey",
+    "category": "robot-vacuums",
+    "namespaceId": "irobot-roomba",
+    "name": "iRobot Roomba Combo j7+ Grey",
+    "sizeAvailable": [
+      "Standard",
+      "Plus Base"
+    ],
+    "size": "Standard",
+    "priceRegular": 38000,
+    "priceDiscount": 34500,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "color": "grey",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Laser Navigation",
+        "text": [
+          "Scans the room to create optimal cleaning paths. Avoids obstacles and never misses a spot."
+        ]
+      },
+      {
+        "title": "App Control",
+        "text": [
+          "Start, stop, and schedule cleaning from your smartphone, even when you are not at home."
+        ]
+      }
+    ],
+    "country": "USA",
+    "dimensions": "35 x 35 x 9.5 cm",
+    "warranty": "24 months",
+    "power": "60W",
+    "weight": "3.5 kg",
+    "noiseLevel": "60 dB",
+    "features": [
+      "LDS Navigation",
+      "Wet Cleaning",
+      "Auto-return to Base"
+    ]
+  },
+  {
+    "id": "dreame-l10s-ultra-white",
+    "category": "robot-vacuums",
+    "namespaceId": "dreame-l10s",
+    "name": "Dreame L10s Ultra White",
+    "sizeAvailable": [
+      "Standard",
+      "Plus Base"
+    ],
+    "size": "Standard",
+    "priceRegular": 32000,
+    "priceDiscount": 28999,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "color": "white",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Laser Navigation",
+        "text": [
+          "Scans the room to create optimal cleaning paths. Avoids obstacles and never misses a spot."
+        ]
+      },
+      {
+        "title": "App Control",
+        "text": [
+          "Start, stop, and schedule cleaning from your smartphone, even when you are not at home."
+        ]
+      }
+    ],
+    "country": "China",
+    "dimensions": "35 x 35 x 9.5 cm",
+    "warranty": "12 months",
+    "power": "75W / 5300Pa",
+    "weight": "3.5 kg",
+    "noiseLevel": "60 dB",
+    "features": [
+      "LDS Navigation",
+      "Wet Cleaning",
+      "Auto-return to Base"
+    ]
+  },
+  {
+    "id": "ecovacs-deebot-t20-white",
+    "category": "robot-vacuums",
+    "namespaceId": "ecovacs-deebot",
+    "name": "Ecovacs Deebot T20 Omni White",
+    "sizeAvailable": [
+      "Standard",
+      "Plus Base"
+    ],
+    "size": "Standard",
+    "priceRegular": 36000,
+    "priceDiscount": 33000,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "color": "white",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Laser Navigation",
+        "text": [
+          "Scans the room to create optimal cleaning paths. Avoids obstacles and never misses a spot."
+        ]
+      },
+      {
+        "title": "App Control",
+        "text": [
+          "Start, stop, and schedule cleaning from your smartphone, even when you are not at home."
+        ]
+      }
+    ],
+    "country": "China",
+    "dimensions": "35 x 35 x 9.5 cm",
+    "warranty": "24 months",
+    "power": "45W / 6000Pa",
+    "weight": "3.5 kg",
+    "noiseLevel": "60 dB",
+    "features": [
+      "LDS Navigation",
+      "Wet Cleaning",
+      "Auto-return to Base"
+    ]
+  },
+  {
+    "id": "rowenta-x-plorer-120-black",
+    "category": "robot-vacuums",
+    "namespaceId": "rowenta-x",
+    "name": "Rowenta X-Plorer Serie 120 AI Black",
+    "sizeAvailable": [
+      "Standard",
+      "Plus Base"
+    ],
+    "size": "Standard",
+    "priceRegular": 18500,
+    "priceDiscount": 16999,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "color": "black",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Laser Navigation",
+        "text": [
+          "Scans the room to create optimal cleaning paths. Avoids obstacles and never misses a spot."
+        ]
+      },
+      {
+        "title": "App Control",
+        "text": [
+          "Start, stop, and schedule cleaning from your smartphone, even when you are not at home."
+        ]
+      }
+    ],
+    "country": "France",
+    "dimensions": "35 x 35 x 9.5 cm",
+    "warranty": "24 months",
+    "power": "33W / 2700Pa",
+    "weight": "3.5 kg",
+    "noiseLevel": "60 dB",
+    "features": [
+      "LDS Navigation",
+      "Wet Cleaning",
+      "Auto-return to Base"
+    ]
+  },
+  {
+    "id": "xiaomi-mop-2-pro-black",
+    "category": "robot-vacuums",
+    "namespaceId": "xiaomi-mop",
+    "name": "Xiaomi Mi Robot Vacuum-Mop 2 Pro Black",
+    "sizeAvailable": [
+      "Standard",
+      "Plus Base"
+    ],
+    "size": "Standard",
+    "priceRegular": 14000,
+    "priceDiscount": 11999,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "color": "black",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Laser Navigation",
+        "text": [
+          "Scans the room to create optimal cleaning paths. Avoids obstacles and never misses a spot."
+        ]
+      },
+      {
+        "title": "App Control",
+        "text": [
+          "Start, stop, and schedule cleaning from your smartphone, even when you are not at home."
+        ]
+      }
+    ],
+    "country": "China",
+    "dimensions": "35 x 35 x 9.5 cm",
+    "warranty": "12 months",
+    "power": "35W / 3000Pa",
+    "weight": "3.5 kg",
+    "noiseLevel": "60 dB",
+    "features": [
+      "LDS Navigation",
+      "Wet Cleaning",
+      "Auto-return to Base"
+    ]
+  },
+  {
+    "id": "roborock-q7-max-white",
+    "category": "robot-vacuums",
+    "namespaceId": "roborock-q7",
+    "name": "Roborock Q7 Max White",
+    "sizeAvailable": [
+      "Standard",
+      "Plus Base"
+    ],
+    "size": "Standard",
+    "priceRegular": 19000,
+    "priceDiscount": 17500,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "color": "white",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Laser Navigation",
+        "text": [
+          "Scans the room to create optimal cleaning paths. Avoids obstacles and never misses a spot."
+        ]
+      },
+      {
+        "title": "App Control",
+        "text": [
+          "Start, stop, and schedule cleaning from your smartphone, even when you are not at home."
+        ]
+      }
+    ],
+    "country": "China",
+    "dimensions": "35 x 35 x 9.5 cm",
+    "warranty": "24 months",
+    "power": "58W / 4200Pa",
+    "weight": "3.5 kg",
+    "noiseLevel": "60 dB",
+    "features": [
+      "LDS Navigation",
+      "Wet Cleaning",
+      "Auto-return to Base"
+    ]
+  },
+  {
+    "id": "irobot-roomba-i3-grey",
+    "category": "robot-vacuums",
+    "namespaceId": "irobot-roomba",
+    "name": "iRobot Roomba i3 Grey",
+    "sizeAvailable": [
+      "Standard",
+      "Plus Base"
+    ],
+    "size": "Standard",
+    "priceRegular": 15500,
+    "priceDiscount": 13999,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "color": "grey",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Laser Navigation",
+        "text": [
+          "Scans the room to create optimal cleaning paths. Avoids obstacles and never misses a spot."
+        ]
+      },
+      {
+        "title": "App Control",
+        "text": [
+          "Start, stop, and schedule cleaning from your smartphone, even when you are not at home."
+        ]
+      }
+    ],
+    "country": "USA",
+    "dimensions": "35 x 35 x 9.5 cm",
+    "warranty": "24 months",
+    "power": "33W",
+    "weight": "3.5 kg",
+    "noiseLevel": "60 dB",
+    "features": [
+      "LDS Navigation",
+      "Wet Cleaning",
+      "Auto-return to Base"
+    ]
+  },
+  {
+    "id": "dreame-d9-max-black",
+    "category": "robot-vacuums",
+    "namespaceId": "dreame-d9",
+    "name": "Dreame D9 Max Black",
+    "sizeAvailable": [
+      "Standard",
+      "Plus Base"
+    ],
+    "size": "Standard",
+    "priceRegular": 12500,
+    "priceDiscount": 10500,
+    "colorsAvailable": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "color": "black",
+    "images": [
+      "img/no-image.svg",
+      "img/no-image.svg",
+      "img/no-image.svg"
+    ],
+    "description": [
+      {
+        "title": "Laser Navigation",
+        "text": [
+          "Scans the room to create optimal cleaning paths. Avoids obstacles and never misses a spot."
+        ]
+      },
+      {
+        "title": "App Control",
+        "text": [
+          "Start, stop, and schedule cleaning from your smartphone, even when you are not at home."
+        ]
+      }
+    ],
+    "country": "China",
+    "dimensions": "35 x 35 x 9.5 cm",
+    "warranty": "12 months",
+    "power": "40W / 4000Pa",
+    "weight": "3.5 kg",
+    "noiseLevel": "60 dB",
+    "features": [
+      "LDS Navigation",
+      "Wet Cleaning",
+      "Auto-return to Base"
+    ]
+  }
+]
