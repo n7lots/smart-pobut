@@ -63,6 +63,8 @@ export const AiAssistant: React.FC<Props> = ({ products }) => {
         throw new Error('No API Key');
       }
 
+      console.log('Проверка ключа:', apiKey ? 'Ключ есть (длина ' + apiKey.length + ')' : 'Ключа НЕТ');
+
       const response = await fetch(
         `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`,
         {
